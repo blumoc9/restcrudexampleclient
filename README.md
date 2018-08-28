@@ -20,4 +20,8 @@ mvn eclipse:clean
 mvn eclipse:eclipse
 mvn compile package
 
-Luego ir a eclipse y hacer un clean al proyecto.
+Luego ir a eclipse y hacer un clean al proyecto y listo.
+
+Se debe tener en cuenta que para que este ejemplo, se deben compilar el siguiente proyecto : 
+
+
