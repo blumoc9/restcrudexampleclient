@@ -42,7 +42,7 @@ public class GetJsonAsString {
 		     
 		 } catch (Exception e) {
 			// TODO: handle exception
-			 System.out.println(FAILED_TO_CONNECT_TO_SERVICE);
+			 System.out.println(FAILED_TO_CONNECT_TO_SERVICE+e.getMessage());
 		 }
 	     
 	 }
