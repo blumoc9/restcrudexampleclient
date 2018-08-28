@@ -22,6 +22,6 @@ mvn compile package
 
 Luego ir a eclipse y hacer un clean al proyecto y listo.
 
-Se debe tener en cuenta que para que este ejemplo, se deben compilar el siguiente proyecto : 
+Se debe tener en cuenta que para que este ejemplo, se deben compilar el siguiente proyecto : https://github.com/blumoc9/restcrudexample
 
 
